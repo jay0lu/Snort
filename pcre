@@ -1,2 +1,3 @@
 U at the end of pcre is for HTTP port only. If the port number is not in HTTP port list, cannot use U.
 In that case we can add HTTP version in pcre.
+() captruing group, in group ^ means negative. \1 matches the same text as most recently matched by the 1st capturing group.
